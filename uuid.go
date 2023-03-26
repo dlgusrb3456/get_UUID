@@ -1,4 +1,4 @@
-package WEB_UUID
+package get_UUID
 
 import (
 	"github.com/google/uuid"
